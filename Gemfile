@@ -26,6 +26,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'nokogiri'
 gem 'nikkou'
 gem 'activerecord-import'
+gem 'rubyzip'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
